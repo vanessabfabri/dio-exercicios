@@ -1,4 +1,4 @@
-🚀 # Bootcamp Suzano - Python Developer #2 (DIO)
+## 🚀 ## Bootcamp Suzano - Python Developer #2 (DIO)
 
 Este repositório contém todas as minhas anotações, desafios de código e projetos desenvolvidos durante o bootcamp **Suzano - Python Developer #2**, oferecido pela [Digital Innovation One (DIO)](https://web.dio.me/).
 
@@ -8,14 +8,14 @@ A trilha de aprendizado foi desenhada para cobrir desde os conceitos fundamentai
 
 ### ✅ Progresso do Bootcamp
 
-## 💻 Versionamento de Código com Git & GitHub
+### 💻 Versionamento de Código com Git & GitHub
 
 Neste módulo, aprendemos a importância do controle de versão para o desenvolvimento de software e como colaborar em projetos de código aberto.
 
 - [x] Curso: Versionamento de Código com Git e GitHub
 - [x] Projeto Prático: Contribuindo em um Projeto Open Source no GitHub
 
-📁 Caminho dos arquivos: `./git-github/`
+### 📁 Caminho dos arquivos: [dio-resumos-git-e-github](https://github.com/vanessabfabri/dio-resumos-git-e-github.git)
 ---
 
 ## 🐍 Desenvolvimento Python
@@ -34,7 +34,7 @@ Esta é a seção principal do bootcamp, cobrindo a linguagem Python desde sua s
 - [ ] Conceitos Fundamentais da Programação Orientada a Objetos
 - [ ] Aplicando Herança, Polimorfismo, Encapsulamento e Abstração em Python
 
-📁 Caminho dos arquivos: trilha-python-dio
+### 📁 Caminho dos arquivos: [trilha-python-dio](https://github.com/vanessabfabri/dio-exercicios/tree/875cdb17bd2cb4929a5378e7f65b6a5d6becf124/trilha-python-dio)
 ---
 
 ## 🤖 Inteligência Artificial e Produtividade
